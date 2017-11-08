@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InClass_Network</string>
+    <string name="btnConnect">Connect</string>
+</resources>
